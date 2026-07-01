@@ -1,5 +1,9 @@
 [
   {
+    "package": "dataProfilerR",
+    "url": "https://github.com/mqfarooqi1/dataProfilerR"
+  },
+  {
     "package": "GSbench",
     "url": "https://github.com/mqfarooqi1/GSbench"
   }
