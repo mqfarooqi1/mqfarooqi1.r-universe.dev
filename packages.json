@@ -6,5 +6,9 @@
   {
     "package": "GSbench",
     "url": "https://github.com/mqfarooqi1/GSbench"
+  },
+  {
+    "package": "sddr",
+    "url": "https://github.com/mqfarooqi1/sddr"
   }
 ]
